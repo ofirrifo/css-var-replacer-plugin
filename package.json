@@ -1,0 +1,26 @@
+{
+  "name": "css-var-replacer-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ofirrifo/css-var-replacer-plugin.git"
+  },
+  "keywords": [],
+  "author": "Ofir Fridman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ofirrifo/css-var-replacer-plugin/issues"
+  },
+  "homepage": "https://github.com/ofirrifo/css-var-replacer-plugin#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "postcss": "^7.0.32",
+    "postcss-scss": "^2.1.1"
+  }
+}
